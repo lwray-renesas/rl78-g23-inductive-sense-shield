@@ -24,4 +24,4 @@ Otherwise do not select this option which simply opens, in e<sup>2</sup>studio, 
 - Then click **Finish**
 
 The animation below shows the steps above (inc. copying the project).
-[Import Process](docs/img/project_import.gif)
+![Import Process](docs/img/project_import.gif)
