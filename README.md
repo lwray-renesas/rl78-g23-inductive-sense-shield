@@ -20,7 +20,7 @@ On checkout of this repository, navigate to the src folder in this repoistory an
 - Choose **Select root directory:** & click **Browse...**
 - Navigate to the repository's **src** folder and click **Select Folder**
 - Optionally you can choose to copy the project into the workspace which will make a brand new copy of the project in the workspace folder\
-Otherwise do not select this option which simply opens, in e<sup>2</sup>studio, directly the project in local repository folder
+Otherwise do not select this option which simply opens, in e<sup>2</sup>studio, directly the project in the local repository folder
 - Then click **Finish**
 
 The animation below shows the steps above (inc. copying the project).
