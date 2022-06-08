@@ -1,19 +1,7 @@
 # rl78-g23-inductive-sense-shield
 Repository containing the RL78/G23 64p FPB Inductive Proximity Sensing software.
 
-## Repository Structure
-Here we will provide a brief outline to the repo's structure.
-
-### bin
-Contains pre-built binaries for quickly flashing and evaluating the sample code.
-
-### docs
-Contains extra Inductive Proximity Sensing training material - targetted specifically at the RL78/G23 Inductive Proximity Sensing shield project.
-
-### src
-Contains the e<sup>2</sup>studio project ofr RL78/G23 64p FPB Inductive Proximity Sensing solution.
-
-### Acquiring the code
+## Acquiring the code
 On checkout of this repository, navigate to the src folder in this repoistory and use e<sup>2</sup>studio's **Import** function.
 - That is **File &rarr; Import...**
 - Then select **General &rarr; Existing Projects into Workspace** & click **Next >**
@@ -25,3 +13,15 @@ Otherwise do not select this option which simply opens, in e<sup>2</sup>studio, 
 
 The animation below shows the steps above (inc. copying the project).
 ![Import Process](docs/img/project_import.gif)
+
+## Repository Structure
+Here we will provide a brief outline to the repo's structure.
+
+### bin
+Contains pre-built binaries for quickly flashing and evaluating the sample code.
+
+### docs
+Contains extra Inductive Proximity Sensing training material - targetted specifically at the RL78/G23 Inductive Proximity Sensing shield project.
+
+### src
+Contains the e<sup>2</sup>studio project ofr RL78/G23 64p FPB Inductive Proximity Sensing solution.
