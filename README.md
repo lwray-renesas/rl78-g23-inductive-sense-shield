@@ -22,5 +22,6 @@ On checkout of this repository, navigate to the src folder in this repoistory an
 - Optionally you can choose to copy the project into the workspace which will make a brand new copy of the project in the workspace folder\
 Otherwise do not select this option which simply opens, in e<sup>2</sup>studio, directly the project in local repository folder
 - Then click **Finish**
-The animation shows the steps above (inc. copying the project).
+
+The animation below shows the steps above (inc. copying the project).
 [![Import Process](docs/img/project_import.gif)](docs/img/project_import.gif)
