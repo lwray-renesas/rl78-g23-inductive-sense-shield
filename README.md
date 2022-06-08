@@ -7,8 +7,8 @@ On checkout of this repository, navigate to the src folder in this repoistory an
 - Then select **General &rarr; Existing Projects into Workspace** & click **Next >**
 - Choose **Select root directory:** & click **Browse...**
 - Navigate to the local repository (top level is fine) & click **Select Folder**
-- Optionally you can choose to copy the project into the workspace which will make a brand new copy of the project in the workspace folder\
-Otherwise do not select this option which simply opens, in e<sup>2</sup>studio, directly the project in the local repository folder
+- Optionally you can choose to copy the project into the workspace which will make a brand new copy of the project in the workspace folder.\
+Otherwise do not select this option which simply opens, in e<sup>2</sup>studio, directly the project in the local repository folder.
 - Then click **Finish**
 
 The animation below shows the steps above (inc. copying the project).
