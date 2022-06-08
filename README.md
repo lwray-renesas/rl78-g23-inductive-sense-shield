@@ -14,12 +14,13 @@ Contains extra Inductive Proximity Sensing training material - targetted specifi
 Contains the e<sup>2</sup>studio project ofr RL78/G23 64p FPB Inductive Proximity Sensing solution.
 
 ### Acquiring the code
-On checkout of this repository, navigate to the src folder in this repoistory and use e<sup>2</sup>studio's **Import** function.\
-That is **File &rarr; Import...**.\
-Then select **General &rarr; Existing Projects into Workspace** & click **Next >**.\
-Choose **Select root directory:** & click **Browse...**.\
-Navigate to the repository's **src** folder and click **Select Folder**.\
-Optionally you can choose to copy the project into the workspace which will make a brand new copy of the project in the workspace folder.\
-Otherwise do not select this option which simply opens, in e<sup>2</sup>studio, directly the project in local repository folder.\
-The animation shows the steps above (inc. copying the project).\
+On checkout of this repository, navigate to the src folder in this repoistory and use e<sup>2</sup>studio's **Import** function.
+- That is **File &rarr; Import...**
+- Then select **General &rarr; Existing Projects into Workspace** & click **Next >**
+- Choose **Select root directory:** & click **Browse...**
+- Navigate to the repository's **src** folder and click **Select Folder**
+- Optionally you can choose to copy the project into the workspace which will make a brand new copy of the project in the workspace folder\
+Otherwise do not select this option which simply opens, in e<sup>2</sup>studio, directly the project in local repository folder
+- Then click **Finish**
+The animation shows the steps above (inc. copying the project).
 [![Import Process](docs/img/project_import.gif)](docs/img/project_import.gif)
